@@ -1,0 +1,13 @@
+.header-sec{
+    background-color: teal;
+}
+
+.header-h1{
+    color: whitesmoke;
+    margin:0;
+    font-size: 50px;
+    padding:10px;
+}
+.header{
+    margin-top:0;
+}

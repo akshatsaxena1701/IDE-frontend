@@ -1,0 +1,23 @@
+.form-ide{
+    display: flex;
+}
+
+.code-area{
+    width:50%;
+
+}
+.input-area{
+    width:50%;
+}
+
+textarea{
+    padding:10px;
+    width:100%;
+}
+
+.btn-submit{
+    margin-top: 10px;
+    height:10%;
+    width:10%;
+    font-size: large;
+}
